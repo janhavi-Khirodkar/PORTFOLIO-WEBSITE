@@ -1,0 +1,131 @@
+
+
+    *{
+    margin:0 ;
+    padding:0;
+}
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+
+
+
+
+    
+}
+.container{
+    display:flex;
+}
+.
+    
+}
+.devPic img{
+    width:300px ;
+}
+.col-lg-*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.sidebar{
+    background-color: rgb(65, 15, 202);
+    color: rgb(2, 6, 10);
+    height: 110vh;
+    width: 20%;
+}
+.sidebar a{
+    color: rgb(238, 169, 129);
+    text-decoration: none;
+}
+.sidebar a:hover{
+    color: rgb(200, 245, 94);
+}
+.sidebar h2{
+    margin: 30px;
+}
+
+.sidebar nav{
+    padding: 45px;
+}
+
+.sidebar nav li{
+    list-style: none;
+    font-size: 30px;
+    padding: 33px 0;
+}
+.main{
+    background-color:   rgb(240, 171, 228);
+    width: 90vw;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.container{
+    display: flex;
+}
+
+.infocontainer{
+    background-color: rgb(238, 184, 85);
+    height:68vh;
+    width: 70vw;
+    margin: 144px auto;
+    display:flex;
+    justify-content: space-around;
+    box-shadow: 3px 3px 5px 1px #252525;
+}
+
+.devinfo{
+display: flex;
+justify-content: center;
+flex-direction: column  ;
+}
+
+h1{
+    font-size: 45px;
+}
+
+.devpic img{
+width: 50vh;
+border-radius: 70%;
+}
+/* About page */
+.about h1{
+    margin: 20px;
+   align-self: center;
+}
+.about p{
+    margin: 20px;
+    font-size:larger;
+    color: #1f1e1e;
+    background-color: aquamarine;
+}
+
+.skills{
+    margin: 30px;
+    font-size:larger;
+    color: #1f1e1e;
+}
+.skills ul{
+    list-style-type:square;
+}
+.hobbies{
+    margin: 30px;
+    font-size:larger;
+    color: #1f1e1e;
+}
+.hobbies ul{
+    list-style-type:circle;
+}
+.interest{
+    margin: 30px;
+    font-size:larger;
+    color: #1f1e1e;
+}
+
+
+
+
+
+    
+    
+    
+    
+    
